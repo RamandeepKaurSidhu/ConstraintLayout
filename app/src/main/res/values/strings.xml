@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstraintLayout App</string>
+    <string name="game_question_display">Text Qestion to User</string>
+    <string name="game_option_four">Option 4</string>
+    <string name="game_option_three">Option 3</string>
+    <string name="game_option_one">Option 1</string>
+    <string name="game_option_two">Option 2</string>
+</resources>
